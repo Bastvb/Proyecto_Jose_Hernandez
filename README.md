@@ -1,4 +1,4 @@
-# Proyecto_ClementeBallesteros
+# Proyecto_Jose Leonardo Hernandez Vasquez
 proyecto para usar la funcionalidades de GitHub, con ello crear una archivo readme.md y agregar una licencia, practica del uso de el lenguaje Markdown
 
 ---
