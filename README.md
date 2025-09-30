@@ -77,4 +77,8 @@ class Program {
 
 
 
-## Esto es una prueva para ver como funciona el controlador de versiones
+## Esto es una prueba para ver como funciona el controlador de versiones
+
+## Pasos Para modificar o editar algo de tu repositorio mediante el github desckot 
+
+## Primero abres el archivo mediante un editor de codigo o algo parecido lo editas lo guardas y actomaticamente se reflejaran los cambios en el editor de codigo de github y solo faltaria subirlo con un comming.
